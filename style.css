@@ -1,0 +1,18 @@
+/*
+
+
+Copyright 2011-2020 www.karthik.sg
+
+
+*/
+
+
+#jaxcon_contactform          { margin: 0px; border: 0px;}
+
+#jaxcon_contactform table    { margin: 0px; border: 0px;}
+
+#jaxcon_contactform td       { border:0px; width: 100px; vertical-align:top; }
+
+#jaxcon_contactform input    { width: 310px; }
+
+#jaxcon_contactform textarea { width: 310px; height: 100px; }
