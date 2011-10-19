@@ -2,21 +2,22 @@
 /*
 Plugin Name: Jax Contact Form With ReCaptcha
 Plugin URI: http://www.karthik.sg/wp_projects/jaxcon/
-Description: Setup a secured validated Jax Contact Form with Recaptcha. 
-Version: 1.0
-Date: 16 Oct 2011
-Author: Alagappan Karthikeyan (JACK)
-Author URI: http://www.karthik.sg/
-Wordpress Profile : http://profiles.wordpress.org/users/karthiksg
+Plugin Description: Setup a secured validated Jax Contact Form with Recaptcha. 
+Plugin Version: 1.0
+Plugin Author: Alagappan Karthikeyan (JACK)
+Plugin Author URI: http://www.karthik.sg/
+Plugin Wordpress Profile : http://profiles.wordpress.org/users/karthiksg
+
+    Date: 16 Oct 2011
 
     Copyright 2011  All Rights Reserved.
-	Alagappan Karthikeyan
+    Name : Alagappan Karthikeyan
     Email : me@karthik.sg
-	Website : www.karthik.sg
+    Website : www.karthik.sg
     Demo    : www.karthik.sg/wp_projects/jaxcon/demo/
-	support : www.karthik.sg/wp_projects/jaxcon/demo/support/
-	Screenshots : www.karthik.sg/wp_projects/jaxcon/demo/gallery/
-	Video Instructions : www.karthik.sg/wp_projects/jaxcon/demo/vdo
+    support : www.karthik.sg/wp_projects/jaxcon/demo/support/
+    Screenshots : www.karthik.sg/wp_projects/jaxcon/demo/gallery/
+    Video Instructions : www.karthik.sg/wp_projects/jaxcon/demo/vdo
 	
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -154,7 +155,7 @@ function jaxcon_func( $atts ) {
       $jaxcon_subject = $jaxcon_subject['text_string'];
 
 
-      include(WP_PLUGIN_DIR . '/jax_contact_form/jaxcon-form.php');
+      include(WP_PLUGIN_DIR . '/jax-contact-form/jaxcon-form.php');
     
       $output_string=ob_get_contents();
       ob_end_clean();
