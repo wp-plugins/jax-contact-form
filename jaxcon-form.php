@@ -1,5 +1,5 @@
 <?php
-if(!is_callable('recaptcha_check_answer')) require_once(WP_PLUGIN_DIR . '/jax_contact_form/captcha/recaptchalib.php');
+if(!is_callable('recaptcha_check_answer')) require_once(WP_PLUGIN_DIR . '/jax-contact-form/captcha/recaptchalib.php');
 
 # the response from reCAPTCHA
 $resp = null;
@@ -80,7 +80,7 @@ if(document.getElementById("recaptcha_response_field").value=="")
 }
 </script>
 
-<? echo '<link rel="stylesheet" type="text/css" href="' . get_bloginfo('wpurl') . '/wp-content/plugins/contact-form-with-captcha/style.css" />';  ?>
+<? echo '<link rel="stylesheet" type="text/css" href="' . get_bloginfo('wpurl') . '/wp-content/plugins/jax-contact-form/style.css" />';  ?>
 
 <div id="jaxcon_contactform">
 <form action="" method="POST" name="ContactForm" onsubmit="return check();">
