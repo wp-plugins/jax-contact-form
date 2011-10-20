@@ -1,5 +1,4 @@
 === Jax Contact Form With recaptcha ===
-Donate link: paypal : me@karthik.sg
 Tags: recaptcha form, recaptcha contact form, contact, form, contact form, recaptcha, antispam, captcha, contact form with captcha,secured contact form,secure contact form,contact form with captcha validation.
 
 wordpress profile : http://profiles.wordpress.org/users/karthiksg
