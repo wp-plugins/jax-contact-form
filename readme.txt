@@ -7,7 +7,7 @@ wordpress profile : http://profiles.wordpress.org/users/karthiksg
 Current Status :
 
 1. Tested up to: 3.2.1
-2. Stable tag: 1.0
+2. Stable tag: 2.0
 
 Requirements : 
 
