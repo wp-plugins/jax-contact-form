@@ -47,4 +47,4 @@ If you want to rebuild or want to make custom changes in my code you can svn to 
 Not Yet.
 
 == Screenshots ==
-http://www.karthik.sg/wp_projcets/jaxcon/
+<img src="http://plugins.svn.wordpress.org/jax-contact-form/trunk/screenshot-1.gif" />
