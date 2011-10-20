@@ -28,29 +28,17 @@ Related Links:
 
 
 == Installation ==
-Basic Installation Method (uing plugin page in wp-admin)
-Step 1 : Under WP Admin Click on Pugins -> Add New
-Step 2 : Search for jax contact form with recaptcha
-Step 3 : Click on Install
-Step 4 : Activate Plugin
-Step 5 : Goto Settings Tab in WP-ADMIN
-Step 6 : Add recaptcha public,private keys and email address you wish to receive contact details
-Step 7 : Goto your contact page or create a new page and paste the shortcode [jaxcon] in html mode.
-Step 8 : Open contact page or specific page you used the shortcode to view form.
-Step 9 : Greats and its done !
+<ol>
+<li>Unzip jaxcon.zip</li>
+<li>Upload diwali to your `/wp-content/plugins/` directory</li>
+<li>Activate the plugin through the 'Plugins' menu in WordPress</li>
+<li>Configure as you like. See <tt>Settings</tt>, then <tt>Fireworks</tt>.</li>
+<li>Enjoy! Read the <a href="http://www.karthik.sg/wp_projcets/jaxcon/">FAQ</a>if there's any errors</li>
+</ol>
 
 For a video demonstration on this plugin installation, 
 kindly visit www.karthik.sg/wp_projects/jaxcon/
 If you want to rebuild or want to make custom changes in my code you can svn to the below link for source code. -> http://code.google.com/p/jax-contact-form/source/browse/
-
-Basic Installation Method (Manual)
-Step 1 : Upload the downloaded "Jax_Contact_Form_With_Recaptcha" folder to "/wp-content/plugins/" directory.
-Step 2 : Activate the plugin through the 'Plugins' menu in WordPressUnder WP Admin 
-Step 3 : Goto Settings Tab in WP-ADMIN
-Step 4 : Add recaptcha public,private keys and email address you wish to receive contact details
-Step 5 : Goto your contact page or create a new page and paste the shortcode [jaxcon] in html mode.
-Step 6 : Open contact page or specific page you used the shortcode to view form.
-Step 7 : Greats and its done !
 
 == ChangeLog ==
 * First release.
@@ -59,4 +47,4 @@ Step 7 : Greats and its done !
 Not Yet.
 
 == Screenshots ==
-Attached 5 Images.
+http://www.karthik.sg/wp_projcets/jaxcon/

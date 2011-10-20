@@ -91,11 +91,12 @@ function plugin_admin_init(){
 
 }
 
-function plugin_section_text() {
+/* function plugin_section_text() {
         echo "<iframe src='http://www.karthik.sg/wp_projects/jaxcon/support/video/howto.swf' width='500' height='400'></iframe>";
 	echo '<p>Specify your captcha key (<a href="https://www.google.com/recaptcha/admin/create" target=_blank>Get a Free Key</a> )</p>';
 	
 } 
+*/
 
 function jaxcon_to_field_callback() {
 
