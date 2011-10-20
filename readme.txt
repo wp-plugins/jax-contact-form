@@ -8,7 +8,7 @@ Stable tag: 2
 
 
 Jax Contact form with captcha is simple plugin for your WordPress blog that enables you to have a contact form
-with the reCAPTCHA validation field.
+with the reCAPTCHA validation field.   
 
 For more information visit http://www.karthik.sg/wp_projects/jaxcon/ 
 or to my 
@@ -24,7 +24,7 @@ Secured Contact form with field validation and spam protect with google` recaptc
 Requirements : 
 
 1. recaptcha private and public keys
-      (You may need to sign up for recaptcha keys which is available free in the following link -> http://www.google.com/recaptcha)
+      You may need to sign up for recaptcha keys which is available free in the following link -> http://www.google.com/recaptcha
 2. one working email address.
 
 
@@ -62,7 +62,7 @@ If you want to rebuild or want to make custom changes in my code you can svn to 
 
 <b>1. How to get recaptcha keys ?</b>
       You can get it by signing up with your gmail or google account which is available free
-      link -> http://www.google.com/recaptcha)
+      link -> http://www.google.com/recaptcha
 
 
 == Upgrade Notice ==
