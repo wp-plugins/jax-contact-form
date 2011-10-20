@@ -60,7 +60,10 @@ If you want to rebuild or want to make custom changes in my code you can svn to 
 
 == Frequently Asked Questions ==
 
-Not Yet.
+<b>1. How to get recaptcha keys ?</b>
+      You can get it by signing up with your gmail or google account which is available free
+      link -> http://www.google.com/recaptcha)
+
 
 == Upgrade Notice ==
 
