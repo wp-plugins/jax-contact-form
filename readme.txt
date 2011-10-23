@@ -4,7 +4,7 @@ Donate link: me@karthik.sg (paypal id)
 Tags: recaptcha form, recaptcha contact form, contact, form, contact form, recaptcha, antispam, captcha, contact form with captcha,secured contact form,secure contact form,contact form with captcha validation.
 Requires at least: 3.0
 Tested up to: 3.3
-Stable tag: 2
+Stable tag: 1
 
 
 Jax Contact form with captcha is simple plugin for your WordPress blog that enables you to have a contact form
